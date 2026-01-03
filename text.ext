@@ -1,7 +1,12 @@
 echo "# My-website" >> README.md
 git init
-git add README.md
+have to use every time you change some thing
+git add .
+
+have to use every time you change some thing
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Md-Easin-Ali-Khan/My-website.git
+
+have to use every time you change some thing
 git push -u origin main
