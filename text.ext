@@ -8,5 +8,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Md-Easin-Ali-Khan/My-website.git
 
-have to use every time you change some thing
+whan you push code first time 
 git push -u origin main
+
+have to use every time you change some thing
+git push
